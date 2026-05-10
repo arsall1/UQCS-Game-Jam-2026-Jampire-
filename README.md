@@ -12,3 +12,5 @@ The idea is original, however, AI (Specifically ChatGPT) was used frequently to 
 
 Note that certain texture's do not render sometimes; this was a bug I was unable to fix within the time constraints. If you rerun the game multiple times it might render those textures properlly eventually :/
 
+The MapIfTexturesRenderCorrectly.png image shows what the game looks like if renders correctly.
+
